@@ -1,4 +1,4 @@
-# Single Document Extractive Text Summarization with LexRank
+# Extractive Text Summarization for Single Document with LexRank
 
 Single document extractive text summarization with LexRank is implemented. Dataset consists of 1000 plain text files. Each of them includes a news story and gold standard summary separated with a blank line from the news story. Implementation steps are as following:
 1. Calculate IDF score
